@@ -27,6 +27,8 @@
 
 don't know what happened. made the mistake of thinking i really could save a headache by extending last week's assignment. just need to rip it all out and start again. maybe the weekend.
 
+i don't think there's a single fully-completed aspect to this entire thing.
+
 ## thank u
 
 [erikritter](https://medium.com/@erikritter/css-snippets-add-a-texture-overlay-to-an-entire-webpage-b0bfdfd02c45)
