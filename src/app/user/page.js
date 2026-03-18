@@ -19,7 +19,7 @@ export default async function Page({ searchParams }) {
       <div className="sortBy flex flex-row place-self-center p-2">
         <Link
           href="/posts"
-          className={`p-2 hover:bg-accent hover:text-primary ${!params.sort ? "text-contrast font-medium" : null}`} // god i have come to love template literals and ternary ops but i still get confused with the order of `s and {s
+          className={`p-2 hover:bg-accent hover:text-primary ${!params.sort ? "text-contrast font-medium" : null}`}
         >
           new
         </Link>

@@ -14,7 +14,7 @@ export default function SideBar() {
   return (
     <>
       <motion.div
-        className={`sideBar w-full md:w-2xs bg-secondary md:bg-primary text-primary md:text-secondary border-r-4 flex flex-row md:flex-col relative overflow-hidden ${showSideBar === false ? "h-0" : "h-full"}`}
+        className={`sideBar w-full md:w-2xs bg-secondary md:bg-primary text-primary md:text-secondary flex flex-row md:flex-col relative overflow-hidden ${showSideBar === false ? "h-0" : "h-full"}`}
         transition={{
           duration: 0.2,
           ease: "circOut",
